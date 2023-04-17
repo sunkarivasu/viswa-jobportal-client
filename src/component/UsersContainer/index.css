@@ -1,0 +1,11 @@
+.job-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: 0;
+    margin: 10px;
+    background-color: skyblue;
+    padding: 5px;
+    width: 40vh;
+  }
